@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    background: linear-gradient(to right, #f5ed19,#f31212);
+}
+h1 {
+    font-size: 5rem;
+    color: rgb(10, 58, 171);
+    font-family: "Aevo",cursive;
+    text-shadow: 3px 0 #037716;
+}
+h5 {
+    color: cyan;
+}
+
+footer {
+    color: rgb(133, 87, 16);
+    font-family: sans-serif;
+}
+
+.Manjira {
+    background-image: url("images/Manjira\ img.jpg");
+}
+ 
+.Damaru {
+    background-image: url("images/damaru.jpg");
+}
+
+.Shankha {
+    background-image: url("images/shankha.jpg");
+}
+
+.Pungi {
+    background-image: url("images/pungi.jpg");
+}
+
+.Ektara {
+    background-image: url("images/ektara.jpg");
+}
+.Chimta{
+    background-image: url("images/chimta.jpg");
+}
+
+.Jaltarang {
+    background-image: url("images/jal\ tarang.jpg");
+}
+
+.set {
+    margin: 10% auto;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #dbeddb;
+    opacity: 0.5;
+}
+
+.red {
+    color:blue;
+}
+
+.IML {
+    outline: none;
+    border: 5px solid #404040;
+    font-size: 1rem;
+    font-family: "Arvo", cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: rgb(15, 6, 4);
+    text-shadow: 3px 0 #eaeeeade;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 135px;
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(244, 240, 255);
+
+}
