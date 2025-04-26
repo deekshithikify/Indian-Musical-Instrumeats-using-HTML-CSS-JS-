@@ -17,35 +17,36 @@ footer {
     font-family: sans-serif;
 }
 
-.Manjira {
-    background-image: url("images/Manjira\ img.jpg");
-}
- 
-.Damaru {
-    background-image: url("images/damaru.jpg");
-}
-
-.Shankha {
-    background-image: url("images/shankha.jpg");
-}
-
-.Pungi {
-    background-image: url("images/pungi.jpg");
-}
-
-.Ektara {
-    background-image: url("images/ektara.jpg");
-}
-.Chimta{
-    background-image: url("images/chimta.jpg");
-}
-
-.Jaltarang {
-    background-image: url("images/jal\ tarang.jpg");
+.IML {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid #404040;
+    border-radius: 15px;
+    font-size: 1rem;
+    font-family: "Arvo", cursive;
+    font-weight: 900;
+    color: rgb(15, 6, 4);
+    text-shadow: 3px 0 #eaeeeade;
+    background-color: rgb(244, 240, 255);
+    outline: none;
+    cursor: pointer;
+    text-align: center;
 }
 
 .set {
     margin: 10% auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .pressed {
@@ -53,25 +54,25 @@ footer {
     opacity: 0.5;
 }
 
-.red {
-    color:blue;
+
+.Manjira {
+    background-image: url("images/Manjira img.jpg");
 }
-
-.IML {
-    outline: none;
-    border: 5px solid #404040;
-    font-size: 1rem;
-    font-family: "Arvo", cursive;
-    line-height: 2;
-    font-weight: 900;
-    color: rgb(15, 6, 4);
-    text-shadow: 3px 0 #eaeeeade;
-    border-radius: 15px;
-    display: inline-block;
-    width: 150px;
-    height: 135px;
-    text-align: center;
-    margin: 10px;
-    background-color: rgb(244, 240, 255);
-
+.Damaru {
+    background-image: url("images/damaru.jpg");
+}
+.Shankha {
+    background-image: url("images/shankha.jpg");
+}
+.Pungi {
+    background-image: url("images/pungi.jpg");
+}
+.Ektara {
+    background-image: url("images/ektara.jpg");
+}
+.Chimta {
+    background-image: url("images/chimta.jpg");
+}
+.Jaltarang {
+    background-image: url("images/jal tarang.jpg");
 }
