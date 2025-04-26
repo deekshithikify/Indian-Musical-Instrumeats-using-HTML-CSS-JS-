@@ -17,7 +17,8 @@ Click on any instrument to hear its unique sound.
 
 ## 🖼️ Screenshot
 
-![Screenshot (1804)](https://github.com/user-attachments/assets/a906b260-98d2-4ed2-b24a-c721d95dd9d1)
+![Screenshot (1806)](https://github.com/user-attachments/assets/147c6b56-aff7-4920-ba84-02824b5ebc7d)
+
 
 
 ---
